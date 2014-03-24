@@ -2,7 +2,7 @@ border_size=1
 usage=map
 
 Xos, Xol, Xos, Xos, Xos, Xos, Xol, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
-Xos, Ur, 4 Kud, Ur, Ch, Iwr, Iwr, Xol, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xol, Xos, Xos, Xos, Xol, Xos, Xos, Xos, Xos, Xos, Gg^Ve, Gg^Ve, Gg^Ve, Xos
+Xos, Ur, 4 Kud, Ur, Ch, Iwr, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xol, Xos, Xos, Xos, Xol, Xos, Xos, Xos, Xos, Xos, Gg^Ve, Gg^Ve, Gg^Ve, Xos
 Xos, Ur, Ch, Ch, Iwr, Iwr, Iwr, Xol, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xol, Yf, Yf, Yf, Yf, Yf, Xol, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
 Xos, Xol, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Yf, Yf, Yf, Yf, Yf, Yf, Yf, Yf, Xos, Xos, Xos, Xos, Xos, Xos, Xos
 Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xol, Iwr, Xol, Iwr, Xol, Iwr, Xol, Xos, Yf, Yf, Yf, Yf, Yf, Yf, Yf, Yf, Xos, Xos, Xos, Xos, Xos, Xos, Xos
@@ -31,5 +31,7 @@ Xos, Iwr, Iwr, Xos, Xos, Xos, Xos, Xos, Xol, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, 
 Xos, Ch, Ch, Ch, Iwr, Xos, Iwr, Xol, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
 Xos, Ch, 3 Kh, Ch, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
 Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Iwr, Ch, Ch, Ch, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
-Xos, 2 Kh, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Iwr, Ch, 1 Kh, Ch, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, 5 Kh, Xos
+Xos, Xos, Xos, Xos, 2 Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Iwr, Ch, 1 Kh, Ch, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, 5 Kh, Xos
 Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Iwr, Iwr, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Iwr, Iwr, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Iwr, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos

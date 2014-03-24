@@ -1,0 +1,8 @@
+units/drakes/glider-fire-se-1.png
+~BLIT(portraits/dwarves/runemaster.png~CROP(133,0,72,72),0,0)
+~BLIT(projectiles/fireball-impact-4.png~CROP(14,33,72,72)~O(60%),0,0)
+~BLIT(items/cage.png~CROP(2,0,37,72),0,0)
+~BLIT(items/cage.png~CROP(37,0,31,62),41,0)
+~BLIT(units/drakes/glider-fly-2.png~CROP(0,0,68,72)~RC(magenta>red),4,0)
+
+units/drakes/glider-fire-se-1.png~BLIT(portraits/dwarves/runemaster.png~CROP(133,0,72,72),0,0)~BLIT(projectiles/fireball-impact-4.png~CROP(14,33,72,72)~O(60%),0,0)~BLIT(items/cage.png~CROP(2,0,37,72),0,0)~BLIT(items/cage.png~CROP(37,0,31,62),41,0)~BLIT(units/drakes/glider-fly-2.png~CROP(0,0,68,72)~RC(magenta>red),4,0)
